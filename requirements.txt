@@ -1,0 +1,4 @@
+chainlit
+phidata
+python-dotenv
+anthropic
